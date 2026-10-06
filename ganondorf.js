@@ -10,7 +10,7 @@
     box.id = 'ganondorf-dance-box';
 
     const img = document.createElement('img');
-    img.src = 'https://raw.githubusercontent.com/davidvenegasdelarosa-dotcom/ganondorf-dancing/main/ganondorf_clean.gif';
+    img.src = 'https://raw.githubusercontent.com/davidvenegasdelarosa-dotcom/ganondorf-dancing/main/ganondorfDancing.gif';
     img.alt = 'Ganondorf';
     img.draggable = false;
 
